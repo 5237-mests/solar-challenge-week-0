@@ -1,3 +1,4 @@
 .csv
 .ipynb_*
-env1
+env1/
+data/
