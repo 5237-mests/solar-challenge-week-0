@@ -2,3 +2,5 @@
 .ipynb_*
 env1/
 data/
+data.zip
+__pycache__/
